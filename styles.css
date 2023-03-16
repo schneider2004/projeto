@@ -1,0 +1,28 @@
+body {
+    position: relative;
+    background-color: #2a5050;
+    font-family: Arial, Helvetica, sans-serif;
+}
+fieldset {
+    padding:5pt 5pt 5pt 5pt;
+    border: none;
+}
+p input {
+    float: right
+}
+
+.centro {
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%)
+}
+.caixa {
+    background-color: #ebfcfe;
+    display: inline-block;
+    border-radius: 25pt;
+    padding: 10pt 10pt 10pt 15pt;
+}
+a {
+    color:#76329c
+}
